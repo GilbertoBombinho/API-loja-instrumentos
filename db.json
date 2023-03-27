@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "adm@mail.com",
+      "password": "$2a$10$NJNqzisIPLkDTWh0nVE5O.vQGaDn/t4P5cmXhVEmveu/wSvtBg1iO",
+      "name": "ADM",
+      "address": "",
+      "isAdm": true,
+      "id": 1
+    },
+    {
+      "email": "gilbertoo@mail.com",
+      "password": "$2a$10$UnU0Opyt3gaCGfYcOFUHV.qAPpTZ8VMyTvD1VHFDG/ZUdODXLFuPi",
+      "name": "gilbertoo",
+      "address": "rua 12345",
+      "isAdm": false,
+      "id": 2,
+      "title": "oii"
+    },
+    {
+      "email": "gilbertooo@mail.com",
+      "password": "$2a$10$N7wItvjIeoB0RecTM5cEuucTqgdu86.SNLwXLzCutVPR4oaO21M2C",
+      "name": "gilbertooo",
+      "address": "olaa",
+      "id": 3
+    },
+    {
+      "email": "kakashi@mail.com",
+      "password": "$2a$10$Vu9p7w3.Mu4p.9BcNNQzbeFXurLKwtCrpdzbtWDU7hvqJmj8PM9sG",
+      "name": "kakashi",
+      "address": "konoha",
+      "id": 4
+    },
+    {
+      "email": "kayan@mail.com",
+      "password": "$2a$10$qKeMxi46hRSWFPptURMgGeDRn1yk6kA2COWWW0d3RT5CxHKp.VQ2u",
+      "name": "kayan",
+      "address": "rua dos devs",
+      "id": 5
+    },
+    {
+      "email": "gilberto@mail.com",
+      "password": "$2a$10$WMlH5li/8K8mmyjfMdxleuBG7tmuFbFYBEsl3XX2DezzmXf.wxPm6",
+      "name": "Gilberto",
+      "address": "Rua dos devs",
+      "id": 6
+    },
+    {
+      "email": "beto@mail.com",
+      "password": "$2a$10$4UGarfj/cblZyHNP3W9xneQXfdiSP/TApo0QJeZ/IBSC0Twdx1jcW",
+      "name": "Beto",
+      "address": "rua dos devs 2023",
+      "id": 7
+    },
+    {
+      "email": "Kayann@mail.com",
+      "password": "$2a$10$TP9LuzHL3TzALrlUU2pej.1RSGNb3kl4DapGLZQltjnyNH/d8ztHW",
+      "name": "Kayann",
+      "address": "rua dos devs",
+      "id": 8
+    },
+    {
+      "email": "nilo@mail.com",
+      "password": "$2a$10$K/tZ638eQdwQk9vDN2zGT.sBUHtD0HCWlOO4uex3W1mQ6FzlT9vAa",
+      "name": "nilo",
+      "address": "rua dos desenvolvedores",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "category": "Fender",
+      "img": "https://s3.us-east-1.amazonaws.com/michael.smserver.com.br/guitarra-michael-gm227n-ab_2626.png",
+      "price": 2500,
+      "name": "Guitarra",
+      "id": 11
+    },
+    {
+      "category": "Elétrico",
+      "img": "https://m.media-amazon.com/images/I/41E1OMNTijL._AC_SY355_.jpg",
+      "price": 2000,
+      "name": "Teclado",
+      "id": 12
+    },
+    {
+      "category": "Sopro",
+      "img": "https://s3.us-east-1.amazonaws.com/michael.smserver.com.br/flauta-doce-wrsm21-doce_5475.png",
+      "price": 600,
+      "name": "Flauta",
+      "id": 13
+    }
+  ]
+}
